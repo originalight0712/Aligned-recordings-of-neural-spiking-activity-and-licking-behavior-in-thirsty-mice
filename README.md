@@ -13,14 +13,16 @@ Next, the data collected daily were segmented according to the duration of each 
 
 
 The code can help users load all the raw data and preprocess the data into aligned AI ready dataset. M2_preprocess is the code for processing the data collected from M2 brain region, while SNR_preprocess, VLS_preprocess are used to process the data collected from VLS and SNR brain regions. Resampling algorithm is offered for users
-to reshape the data into expected format.
+to reshape the data into expected format, users may select the .mat files they want to resample and choose the 
 
 
-Examples
+Usage notes
 ---
-
+The code for preprocessing the data into aligned trials has been provided. Users only need to modify the file paths to perform data extraction and preprocessing on all results stored in the raw dataset. Code for resampling the spiking dataset is also provided, users may use example.mat file to reshape trials into the size 
+they need.
 
 
 
 Datasets
 ---
+The dataset is composed by 3 brain regions including M2, VLS and SNR. Data from M2 is collected from 5 mice while VLS and SNR are collected from 8 mice. In our github website, we provide the users with the data collected from M2 region as an example, users may segment the file with our code and reshape the trials into their ideal size.
