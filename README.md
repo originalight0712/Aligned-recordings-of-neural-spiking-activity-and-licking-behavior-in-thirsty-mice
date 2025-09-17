@@ -1,6 +1,6 @@
 Aligned recordings of neural spiking activity and licking behavior in thirsty mice
 ===
-What is Brain Science Data Center in Chinese Academy of Sciences?<img width="100" height="100" alt="d58423d59f79555631dd09870c20b9cb" src="https://github.com/user-attachments/assets/d60a103f-f900-4b7b-a122-a0ec4c40727f" />
+What is Brain Science Data Center in Chinese Academy of Sciences?<img width="50" height="50" alt="d58423d59f79555631dd09870c20b9cb" src="https://github.com/user-attachments/assets/d60a103f-f900-4b7b-a122-a0ec4c40727f" />
 ---
 
 The Brain Science Data Center is an institution established by the Institute of Neuroscience, Chinese Academy of Sciences, for storing brain science data. The stored data includes, but is not limited to, EEG, fMRI, calcium imaging, and neural connection brain atlas data. 
