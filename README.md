@@ -9,7 +9,9 @@ The raw data used in this study is stored in this center website https://www.bra
 
 Datasets
 ---
-[figure_for_procedure.pdf](https://github.com/user-attachments/files/22378034/figure_for_procedure.pdf)
+<img width="825" height="223" alt="image" src="https://github.com/user-attachments/assets/ed42908a-44f9-49e9-8335-1daec9f296af" />
+
+
 The procedure of experiment has been shown as the figure above. It contains interval period, experiment period and fixation period.
 The dataset is composed by 3 brain regions including M2, VLS and SNR. Data from M2 is collected from 5 mice while VLS and SNR are collected from 8 mice. In our github website, we provide the users with the data collected from M2 region as an example, users may segment the file with our code and reshape the trials into their ideal size.
 
